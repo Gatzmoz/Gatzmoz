@@ -1,6 +1,8 @@
 # Hi there, I'm Gilang Rama Syaputra 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gatzmoz&color=blueviolet)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F700FF&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer!;Let's+build+something+amazing!)](https://git.io/typing-svg)
+
 
 ## About Me
 I'm a (Soon To Be)Astrophysicist, Web Developer  with a passion for Web Developing and Astro Simulations. I love working on open-source projects and sharing my knowledge with the community.
