@@ -1,24 +1,16 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Gilang Rama Syaputra 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Gatzmoz&color=blueviolet)
 
 ## About Me
-I'm a [Your Role] with a passion for [Your Interests]. I love working on open-source projects and sharing my knowledge with the community.
+I'm a (Soon To Be)Astrophysicist, Web Developer  with a passion for Web Developing and Astro Simulations. I love working on open-source projects and sharing my knowledge with the community.
 
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Current Learning Focus]
-- 👯 I’m looking to collaborate on [Collaboration Interests]
-- 🤔 I’m looking for help with [Help Needed]
-- 💬 Ask me about [Topics You Can Discuss]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gatzmoz&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gatzmoz&layout=compact&theme=radical)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yourlinkedin/)
