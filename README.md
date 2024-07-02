@@ -1,7 +1,7 @@
 # Hi there, I'm Gilang Rama Syaputra 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gatzmoz&color=blueviolet)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F700FF&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer!;Let's+build+something+amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F700FF&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer!;Let's+build+something+amazing!;Astrophysicist)](https://git.io/typing-svg)
 
 
 ## About Me
