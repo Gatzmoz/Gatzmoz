@@ -10,6 +10,7 @@ I'm a (Soon To Be)Astrophysicist, Web Developer  with a passion for Web Developi
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gatzmoz&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gatzmoz)](https://git.io/streak-stats)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gatzmoz&layout=compact&theme=radical)
